@@ -1,0 +1,190 @@
+Script started on Wed 28 Sep 2022 17:56:06 BST
+]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m [K]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m nano packages1.txt
+[?1049h[1;24r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.2.6            File: packages1.txt                                [22;34H[ New File ][23d^G(B[m Get Help  (B[0;7m^O(B[m WriteOut  (B[0;7m^R(B[m Read File (B[0;7m^Y(B[m Prev Page (B[0;7m^K(B[m Cut Text  (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^J(B[m Justify   (B[0;7m^W(B[m Where Is  (B[0;7m^V(B[m Next Page (B[0;7m^U(B[m UnCut Text(B[0;7m^T(B[m To Spell[3d[1;70H(B[0;7mModified[3d(B[mamanda[4dgaleon[5dmetacity[6dmoz[22d[K[6;4Hz illa[7dpostgresql[8dprocinfo[9drpmfind[10dsqi uid[11d[10;6H[22;25H(B[0;7m[ XOFF ignored, mumble mumble ][10;6H(B[m[22d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                   [23;1H Y(B[m Yes[K[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;62H(B[0;7mFile Name to Write: packages1.txt                           [23d^G(B[m Get Help[23;20H(B[0;7mM-D(B[m DOS Format     (B[0;7mM-A(B[m Append[23;58H(B[0;7mM-B(B[m Backup File[24d(B[0;7m^C(B[m Cancel[17G   (B[0;7mM-M(B[m Mac Format     (B[0;7mM-P(B[m Prepend[22;34H[23d[39;49m(B[m[J[1;70H(B[0;7m        [22;31H(B[m[1K (B[0;7m[ Wrote 8 lines ](B[m[K[24;79H[24;1H[?1049l[?1l>]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m nano packages1.txt[1P.txt2.txt
+[?1049h[1;24r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.2.6            File: packages2.txt                                [22;34H[ New File ][23d^G(B[m Get Help  (B[0;7m^O(B[m WriteOut  (B[0;7m^R(B[m Read File (B[0;7m^Y(B[m Prev Page (B[0;7m^K(B[m Cut Text  (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^J(B[m Justify   (B[0;7m^W(B[m Where Is  (B[0;7m^V(B[m Next Page (B[0;7m^U(B[m UnCut Text(B[0;7m^T(B[m To Spell[3d[1;70H(B[0;7mModified[3d(B[manaconda[4dopenssh[5dgnome-cor[22d[K[5;10He[6dsamba[7dsendmail[8ds[Kxscreensaver[9d[8;13H[22d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                   [23;1H Y(B[m Yes[K[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;62H(B[0;7mFile Name to Write: packages2.txt                           [23d^G(B[m Get Help[23;20H(B[0;7mM-D(B[m DOS Format     (B[0;7mM-A(B[m Append[23;58H(B[0;7mM-B(B[m Backup File[24d(B[0;7m^C(B[m Cancel[17G   (B[0;7mM-M(B[m Mac Format     (B[0;7mM-P(B[m Prepend[22;34H[23d[39;49m(B[m[J[1;70H(B[0;7m        [22;31H(B[m[1K (B[0;7m[ Wrote 6 lines ](B[m[K[24;79H[24;1H[?1049l[?1l>]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m cat pa[K[K[K[K[K[Knano packages2.txt[C[C[C[C[C[C[C[C[C[C[C1.txt[C[C[1P packages1.txt[1P packages1.txt[1P packages1.txt[1P packages1.txtc packages1.txta packages1.txtt packages1.txt[C packages1.txt[1Ppackages1.txt
+amanda
+galeon
+metacity
+mozilla
+postgresql
+procinfo
+rpmfind
+squid
+]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m cat packages1.txtnano packages2.txt[C[1P packages2.txt[1P packages2.txt[1P packages2.txt[1P packages2.txtc packages2.txta packages2.txtt packages2.txt
+anaconda
+openssh
+gnome-core
+samba
+sendmail
+xscreensaver
+]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m cat
+Lola
+Lola
+]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m 1[Ktr \[K'aeioi'[K[Ku' "[K'AEIOU"[K:[K'
+Hello
+HEllO
+]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m cat packages1.txt>packages1.catfile >packages1.catfile[C packages1.catfile [A]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m cat packages1.catfile
+amanda
+galeon
+metacity
+mozilla
+postgresql
+procinfo
+rpmfind
+squid
+]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m [K]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m diff packages1.txt packages1.catfile[K[Kle
+]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m ls -l packages1*
+-rw-r--r-- 1 pi pi 65 Sep 28 18:41 packages1.catfile
+-rw-r--r-- 1 pi pi 65 Sep 28 17:59 packages1.txt
+]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m cat packages2.txt >> packages1.catfile
+]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m \[Kcat packages1.catfile
+amanda
+galeon
+metacity
+mozilla
+postgresql
+procinfo
+rpmfind
+squid
+anaconda
+openssh
+gnome-core
+samba
+sendmail
+xscreensaver
+]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m ssg[K[K[Kssh romanenkova13@192.168.56.103
+romanenkova13@192.168.56.103's password: 
+Welcome to Ubuntu 22.04.1 LTS (GNU/Linux 5.15.0-47-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+47 обновлений может быть применено немедленно.
+10 из этих обновлений, являются стандартными обновлениями безопасности.
+Чтобы просмотреть дополнительные обновления выполните: apt list --upgradable
+
+Last login: Thu Sep 15 09:02:36 2022 from 192.168.56.101
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ cd home.[K/Romanenkova?Lab2?[K[K[K[K[K[K/Lab2[Kw[K2/Lab2.[K[K[K[K[KTask2.1
+[?2004l-bash: cd: home/Romanenkova/Lab2/Task2.1: Нет такого файла или каталога
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ cd home/Romanenkova/Lab2/Task2.1[C[C/ home/Romanenkova/Lab2/Task2.1[C[1Phome/Romanenkova/Lab2/Task2.1 /home/Romanenkova/Lab2/Task2.1
+[?2004l-bash: cd: /home/Romanenkova/Lab2/Task2.1: Нет такого файла или каталога
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ cd /home/Romanenkova/Lab2/Task2.1[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004l[?2004h]0;romanenkova13@ubuntu: /homeromanenkova13@ubuntu:/home$ cd Romanenkova
+[?2004l-bash: cd: Romanenkova: Нет такого файла или каталога
+[?2004h]0;romanenkova13@ubuntu: /homeromanenkova13@ubuntu:/home$ cd Romanenkova/Romanenkova
+[?2004l-bash: cd: /Romanenkova: Нет такого файла или каталога
+[?2004h]0;romanenkova13@ubuntu: /homeromanenkova13@ubuntu:/home$ a[K-a-all
+[?2004l-a-all: команда не найдена
+[?2004h]0;romanenkova13@ubuntu: /homeromanenkova13@ubuntu:/home$ -all
+[?2004lКоманда «-all» не найдена. Возможно, вы имели в виду:
+  command 'wall' from deb bsdutils (1:2.37.2-4ubuntu3)
+Try: sudo apt install <deb name>
+[?2004h]0;romanenkova13@ubuntu: /homeromanenkova13@ubuntu:/home$ all
+[?2004lКоманда «all» не найдена. Возможно, вы имели в виду:
+  command 'pall' from snap pall (3.0.1)
+  command 'ali' from deb mailutils-mh (1:3.14-1)
+  command 'ali' from deb mmh (0.4-4)
+  command 'ali' from deb nmh (1.7.1-11)
+  command 'alc' from deb amule-utils-gui (1:2.3.3-2)
+  command 'al2' from deb mono-devel (6.8.0.105+dfsg-3.2)
+  command 'dll' from deb brickos (0.9.0.dfsg-12.2)
+  command 'ale' from deb ale (0.9.0.3-5)
+  command 'al' from deb mono-devel (6.8.0.105+dfsg-3.2)
+  command 'axl' from deb afnix (3.5.0-3)
+  command 'wall' from deb bsdutils (1:2.37.2-4ubuntu3)
+  command 'alf' from deb seqan-apps (2.4.0+dfsg-14ubuntu1)
+  command 'als' from deb atool (0.39.0-11)
+See 'snap info <snapname>' for additional versions.
+[?2004h]0;romanenkova13@ubuntu: /homeromanenkova13@ubuntu:/home$ 
+[?2004l[?2004h]0;romanenkova13@ubuntu: /homeromanenkova13@ubuntu:/home$ 
+[?2004l[?2004h]0;romanenkova13@ubuntu: /homeromanenkova13@ubuntu:/home$ cd Romanenkova
+[?2004l-bash: cd: Romanenkova: Нет такого файла или каталога
+[?2004h]0;romanenkova13@ubuntu: /homeromanenkova13@ubuntu:/home$ cd Romanenkovaall[Kcd Romanenkova[Kcd Romanenkova[1Pomanenkovaromanenkova
+[?2004l-bash: cd: romanenkova: Нет такого файла или каталога
+[?2004h]0;romanenkova13@ubuntu: /homeromanenkova13@ubuntu:/home$ cd romanenkova[C/romanenkova[C[1PomanenkovaRomanenkova
+[?2004l-bash: cd: /Romanenkova: Нет такого файла или каталога
+[?2004h]0;romanenkova13@ubuntu: /homeromanenkova13@ubuntu:/home$ cd
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ cd /Romanenkova[1PromanenkovaRomanenkovaall[K-all-allcd /Romanenkova[1PRomanenkova[6P/home/Romanenkova/Lab2/Task2.1[C[C[C[1PRomanenkova/Lab2/Task2.1[1PRomanenkova/Lab2/Task2.1[1PRomanenkova/Lab2/Task2.1[1PRomanenkova/Lab2/Task2.1[1PRomanenkova/Lab2/Task2.1
+[?2004l-bash: cd: /Romanenkova/Lab2/Task2.1: Нет такого файла или каталога
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ cd /Romanenkova/Lab2/Task2.1[K[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004l-bash: cd: /Romanenkova: Нет такого файла или каталога
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ cd /Romanenkova/Lab2/Task2.1[K /Romanenkova[1PromanenkovaRomanenkovaall[Kcd Romanenkovaromanenkova/Romanenkova[K /Romanenkova/Lab2/Task2.1[1PRomanenkova/Lab2/Task2.1
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ script task2-1romanenkova13u.txt -ttim elog2-1rome[Kanenkova.txt1.txt3.txtu.txt
+[?2004lScript started, output log file is 'task2-1romanenkova13u.txt', timing file is 'timelog2-1romanenkova13u.txt'.
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ cat > typedin.txt
+[?2004lLola
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ ls -l tu[Kypedin.txt
+[?2004l-rw-rw-r-- 1 romanenkova13 romanenkova13 5 сен 28 21:14 typedin.txt
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ cat typedin.txt
+[?2004lLola
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ [K]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ 5re[K[K[Ktr 'aeiou' 'AEIOU'>[K>trfile.txt
+[?2004llola
+LOLA
+
+LOLA
+^[[A    [?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ tr 'aeiou' 'AEIOU'>trfile.txt
+[?2004lLOLA
+
+^X
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ tr 'aeiou' 'AEIOU'>trfile.txt
+[?2004llola rom
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ ls -;[K[K[K -l trfile.txt
+[?2004l-rw-rw-r-- 1 romanenkova13 romanenkova13 9 сен 28 21:23 trfile.txt
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ cat trfile [K.txt
+[?2004llOlA rOm
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ cat psc[K[Kackages1.txt
+[?2004lcat: packages1.txt: Нет такого файла или каталога
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ nano packagesq[K1.txt
+[?2004l[?2004h[?1049h[22;0;0t[1;25r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[23;37H(B[0;7m[ Новый файл ](B[m[H(B[0;7m  GNU nano 6.2                         packages1.txt                                   [1;86H(B[m[24d(B[0;7m^G(B[m Справка    (B[0;7m^O(B[m Записать   (B[0;7m^W(B[m Поиск[43G(B[0;7m^K(B[m Вырезать   (B[0;7m^T(B[m Выполнить  (B[0;7m^C(B[m Позиция[25d(B[0;7m^X(B[m Выход[15G(B[0;7m^R(B[m ЧитФайл    (B[0;7m^\(B[m Замена     (B[0;7m^U(B[m Вставить   (B[0;7m^J(B[m Выровнять  (B[0;7m^/(B[m К строке[2d[?12l[?25h[?25l[1;54H(B[0;7m*[86G(B[m[?12l[?25h[2da[?25l[?12l[?25hm[?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25hd[?25l[?12l[?25ha[?25l[3d[?12l[?25h[?25l[?12l[?25hg[?25l[?12l[?25ha[?25l[?12l[?25hk[?25l[?12l[?25h [?25l[?12l[?25hl[?25l[?12l[?25he[?25l[?12l[?25ho[?25l[?12l[?25hn[?25l[4d[?12l[?25h[?25l[?12l[?25hm[?25l[?12l[?25he[?25l[?12l[?25ht[?25l[23d[K[?12l[?25h[4;4Ha[?25l[?12l[?25hc[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25hy[?25l[5d[?12l[?25h[?25l[?12l[?25hm[?25l[?12l[?25ho[?25l[?12l[?25hz[?25l[?12l[?25hi[?25l[?12l[?25hl[?25l[?12l[?25hl[?25l[?12l[?25ha[?25l[6d[?12l[?25h[?25l[?12l[?25hp[?25l[?12l[?25ho[?25l[?12l[?25hs[?25l[?12l[?25ht[?25l[?12l[?25hg[?25l[?12l[?25hr[?25l[?12l[?25he[?25l[?12l[?25hs[?25l[?12l[?25hq[?25l[?12l[?25hl[?25l[7d[?12l[?25h[?25l[?12l[?25hp[?25l[?12l[?25hr[?25l[?12l[?25ho[?25l[?12l[?25hc[?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25hf[?25l[?12l[?25ho[?25l[8d[?12l[?25h[?25l[?12l[?25hr[?25l[?12l[?25hp[?25l[?12l[?25hm[?25l[?12l[?25hf[?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25hd[?25l[9d[?12l[?25h[?25l[?12l[?25hs[?25l[?12l[?25hq[?25l[?12l[?25hu[?25l[?12l[?25hi[?25l[?12l[?25hd[?25l[10d[?12l[?25h[?25l[9;6H[?12l[?25h[?25l[23d(B[0;7mСохранить изменённый буфер?                                                            [24;1H Y(B[m Да[K[25d(B[0;7m N(B[m Нет  [15G  (B[0;7m^C(B[m Отмена[K[23;29H[?12l[?25h[?25l[24d(B[0;7m^G(B[m Справка[24;22H(B[0;7mM-D(B[m Формат DOS[43G(B[0;7mM-A(B[m Доп. в начало    (B[0;7mM-B(B[m Резерв. копия[25d(B[0;7m^C(B[m Отмена[17G     (B[0;7mM-M(B[m Формат Mac[43G(B[0;7mM-P(B[m Доп. в конец     (B[0;7m^T(B[m Обзор[23d(B[0;7mИмя файла для записи: packages1.txt(B[m[?12l[?25h[?25l  [1K (B[0;7m[ Запись… ](B[m[K[1;54H(B[0;7m [86G(B[m[23;34H(B[0;7m[ Записано 8 строк ](B[m[J[25d[?12l[?25h[25;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ nano packages1.txt[1Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lamanda
+galeon
+metacity
+mozilla
+postgresql
+procinfo
+rpmfind
+squid
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ cat < packages1.txt
+[?2004lamanda
+galeon
+metacity
+mozilla
+postgresql
+procinfo
+rpmfind
+squid
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ tr 'aeiou' ''A'E'I'O'U'[C < packages1.txt
+[?2004lAmAndA
+gAlEOn
+mEtAcIty
+mOzIllA
+pOstgrEsql
+prOcInfO
+rpmfInd
+sqUId
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ tr 'aeiou' 'AEIOU' < packages1.txct[K[Kt > p ackages1.trfile.txt[K[A]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ tr 'aeiou' 'AEIOU' < packages1.txt > packages1.trfile.txt
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ ls -l ps[Kackages1.txt packages1.trfile.txt
+[?2004l-rw-rw-r-- 1 romanenkova13 romanenkova13 65 сен 28 21:33 packages1.trfile.txt
+-rw-rw-r-- 1 romanenkova13 romanenkova13 65 сен 28 21:26 packages1.txt
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ cat packages1.trfile.txt
+[?2004lAmAndA
+gAlEOn
+mEtAcIty
+mOzIllA
+pOstgrEsql
+prOcInfO
+rpmfInd
+sqUId
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ exit
+[?2004lexit
+Script done.
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ exit
+[?2004lвыход
+Connection to 192.168.56.103 closed.
+]0;pi@raspberry: ~/Romanenkova/Lab2/Task2.1[01;32mpi@raspberry[00m:[01;34m~/Romanenkova/Lab2/Task2.1 $[00m exit
+exit
+
+Script done on Wed 28 Sep 2022 19:37:26 BST

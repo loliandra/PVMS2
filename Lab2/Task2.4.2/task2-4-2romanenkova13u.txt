@@ -1,0 +1,29 @@
+Script started on 2022-09-29 17:03:43+03:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="80" LINES="27"]
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$  [Kecho $()d)a)t)e)
+[?2004lЧт 29 сен 2022 17:18:57 +03
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ echo Area% $[K[K[K: $[]$]X]*][1P] ]*] ]Y]
+[?2004lbash: * Y: синтаксическая ошибка: ожидается операнд (неверный маркер «* Y»)
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ echo Area: $[$X * Y]$Y]
+[?2004lbash: * : синтаксическая ошибка: ожидается операнд (неверный маркер «* »)
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ X=2
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ Y=100[K[K[K20
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ Y=20[1PX=2echo Area: $[$X * $Y]
+[?2004lArea: 40
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ echo Your cost:\$5,[K<[K.[K,00
+[?2004lYour cost:$5,00
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ echo '$date'
+[?2004l$date
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ date
+[?2004lЧт 29 сен 2022 17:22:10 +03
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ exir
+[?2004lКоманда «exir» не найдена. Возможно, вы имели в виду:
+  command 'exim' from deb exim4-daemon-heavy (4.95-4ubuntu2.1)
+  command 'exim' from deb exim4-daemon-light (4.95-4ubuntu2.1)
+  command 'xir' from deb libxir-utils (1.4-2ubuntu1)
+  command 'exif' from deb exif (0.6.22-2)
+  command 'expr' from deb coreutils (8.32-4.1ubuntu1)
+Try: sudo apt install <deb name>
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ exit
+[?2004lexit
+
+Script done on 2022-09-29 17:22:22+03:00 [COMMAND_EXIT_CODE="127"]

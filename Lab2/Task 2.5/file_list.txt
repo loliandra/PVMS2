@@ -1,0 +1,9 @@
+итого 28
+-rw-rw-r-- 1 romanenkova13 romanenkova13    0 сен 29 20:36 file_list.txt
+drwxrwxr-x 2 romanenkova13 romanenkova13 4096 сен 29 11:29 Task2.1
+drwxrwxr-x 3 romanenkova13 romanenkova13 4096 сен 29 11:28 Task2.2
+drwxrwxr-x 2 romanenkova13 romanenkova13 4096 сен 29 16:53 Task2.3
+drwxrwxr-x 2 romanenkova13 romanenkova13 4096 сен 29 16:54 Task2.4.1
+drwxrwxr-x 2 romanenkova13 romanenkova13 4096 сен 29 18:24 Task2.4.2
+drwxrwxr-x 3 romanenkova13 romanenkova13 4096 сен 29 19:57 Task2.4.3
+drwxrwxr-x 2 romanenkova13 romanenkova13 4096 сен 29 20:15 Task 2.5

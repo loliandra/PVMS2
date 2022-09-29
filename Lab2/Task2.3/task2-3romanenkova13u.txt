@@ -1,0 +1,56 @@
+Script started on 2022-09-29 11:42:09+03:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;romanenkova13@ubuntu: ~romanenkova13@ubuntu:~$ m[Kcd Romanenkova
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~/Romanenkovaromanenkova13@ubuntu:~/Romanenkova$ cd Lab2/Task2.3
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.3romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.3$ touch records
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.3romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.3$ sed -n -f records books
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.3romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.3$ touch appends
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.3romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.3$ sed -f appends books
+[?2004lBook one.
+The second book.
+The third.
+This is book four.
+Five.
+This is the sixth.
+This is book seven.
+Eighth and last.
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.3romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.3$ touch insert
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.3romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.3$ sed if /t[KThis/i\Sk[KKARBONKA B[Kbook[K[K[K[K[K insert  books
+[?2004lsed: невозможно прочитать /This/iSKARBONKA: Нет такого файла или каталога
+f
+Book one.
+f
+The second book.
+f
+The third.
+f
+This is book four.
+f
+Five.
+f
+This is the sixth.
+f
+This is book seven.
+f
+Eighth and last.
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.3romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.3$ sed if /This/i\SKARBONKA insert books[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Knano insert
+[?2004l[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;35H(B[0;7m[ Чтение… ](B[m[22;30H(B[0;7m[ Прочитано 0 строк ](B[m[H(B[0;7m  GNU nano 6.2                         insert                                   [1;79H(B[m[23d(B[0;7m^G(B[m Справка   (B[0;7m^O(B[m Записать  (B[0;7m^W(B[m Поиск     (B[0;7m^K(B[m Вырезать  (B[0;7m^T(B[m Выполнить (B[0;7m^C(B[m Позиция[24d(B[0;7m^X(B[m Выход     (B[0;7m^R(B[m ЧитФайл   (B[0;7m^\(B[m Замена    (B[0;7m^U(B[m Вставить  (B[0;7m^J(B[m Выровнять (B[0;7m^/(B[m К строке[2d[?12l[?25h[?25l[1;47H(B[0;7m*[79G(B[m[?12l[?25h[2d/[?25l[?12l[?25hT[?25l[?12l[?25hh[?25l[?12l[?25hi[?25l[?12l[?25hs[?25l[?12l[?25h/[?25l[?12l[?25hi[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hi[?25l[?12l[?25h\[?25l[3d[?12l[?25h[?25l[?12l[?25hS[?25l[?12l[?25hK[?25l[?12l[?25hA[?25l[?12l[?25hR[?25l[?12l[?25hB[?25l[?12l[?25hO[?25l[?12l[?25hN[?25l[22d[K[?12l[?25h[3;8HL[?25l[?12l[?25h [?25l[?12l[?25hK[?25l[?12l[?25hA[?25l[22;35H(B[0;7m[ Запись… ](B[m[1;47H(B[0;7m [79G(B[m[22;30H(B[0;7m[ Записано 2 строки ](B[m[?12l[?25h[3;10H[?25l[22d[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.3romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.3$ nano insert[K[K[K[K[K[K[K[K[K[K[Ksed -f insert books
+[?2004lBook one.
+The second book.
+The third.
+SKARBONKA
+This is book four.
+Five.
+SKARBONKA
+This is the sixth.
+SKARBONKA
+This is book seven.
+Eighth and last.
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.3romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.3$ sed -n 's/book/novel/ p' books
+[?2004lThe second novel.
+This is novel four.
+This is novel seven.
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.3romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.3$ exit
+[?2004lexit
+
+Script done on 2022-09-29 12:37:11+03:00 [COMMAND_EXIT_CODE="0"]

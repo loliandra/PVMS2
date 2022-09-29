@@ -1,0 +1,69 @@
+Script started on 2022-09-15 21:35:28+03:00 [TERM="xterm" TTY="/dev/pts/1" COLUMNS="87" LINES="24"]
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ cat > typedin.txt
+[?2004lLola
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ ls -l tu[Kypedin.txt
+[?2004l-rw-rw-r-- 1 romanenkova13 romanenkova13 5 сен 28 21:14 typedin.txt
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ cat typedin.txt
+[?2004lLola
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ [K]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ 5re[K[K[Ktr 'aeiou' 'AEIOU'>[K>trfile.txt
+[?2004llola
+LOLA
+
+LOLA
+^[[A    [?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ tr 'aeiou' 'AEIOU'>trfile.txt
+[?2004lLOLA
+
+^X
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ tr 'aeiou' 'AEIOU'>trfile.txt
+[?2004llola rom
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ ls -;[K[K[K -l trfile.txt
+[?2004l-rw-rw-r-- 1 romanenkova13 romanenkova13 9 сен 28 21:23 trfile.txt
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ cat trfile [K.txt
+[?2004llOlA rOm
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ cat psc[K[Kackages1.txt
+[?2004lcat: packages1.txt: Нет такого файла или каталога
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ nano packagesq[K1.txt
+[?2004l[?2004h[?1049h[22;0;0t[1;25r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[23;37H(B[0;7m[ Новый файл ](B[m[H(B[0;7m  GNU nano 6.2                         packages1.txt                                   [1;86H(B[m[24d(B[0;7m^G(B[m Справка    (B[0;7m^O(B[m Записать   (B[0;7m^W(B[m Поиск[43G(B[0;7m^K(B[m Вырезать   (B[0;7m^T(B[m Выполнить  (B[0;7m^C(B[m Позиция[25d(B[0;7m^X(B[m Выход[15G(B[0;7m^R(B[m ЧитФайл    (B[0;7m^\(B[m Замена     (B[0;7m^U(B[m Вставить   (B[0;7m^J(B[m Выровнять  (B[0;7m^/(B[m К строке[2d[?12l[?25h[?25l[1;54H(B[0;7m*[86G(B[m[?12l[?25h[2da[?25l[?12l[?25hm[?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25hd[?25l[?12l[?25ha[?25l[3d[?12l[?25h[?25l[?12l[?25hg[?25l[?12l[?25ha[?25l[?12l[?25hk[?25l[?12l[?25h [?25l[?12l[?25hl[?25l[?12l[?25he[?25l[?12l[?25ho[?25l[?12l[?25hn[?25l[4d[?12l[?25h[?25l[?12l[?25hm[?25l[?12l[?25he[?25l[?12l[?25ht[?25l[23d[K[?12l[?25h[4;4Ha[?25l[?12l[?25hc[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25hy[?25l[5d[?12l[?25h[?25l[?12l[?25hm[?25l[?12l[?25ho[?25l[?12l[?25hz[?25l[?12l[?25hi[?25l[?12l[?25hl[?25l[?12l[?25hl[?25l[?12l[?25ha[?25l[6d[?12l[?25h[?25l[?12l[?25hp[?25l[?12l[?25ho[?25l[?12l[?25hs[?25l[?12l[?25ht[?25l[?12l[?25hg[?25l[?12l[?25hr[?25l[?12l[?25he[?25l[?12l[?25hs[?25l[?12l[?25hq[?25l[?12l[?25hl[?25l[7d[?12l[?25h[?25l[?12l[?25hp[?25l[?12l[?25hr[?25l[?12l[?25ho[?25l[?12l[?25hc[?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25hf[?25l[?12l[?25ho[?25l[8d[?12l[?25h[?25l[?12l[?25hr[?25l[?12l[?25hp[?25l[?12l[?25hm[?25l[?12l[?25hf[?25l[?12l[?25hi[?25l[?12l[?25hn[?25l[?12l[?25hd[?25l[9d[?12l[?25h[?25l[?12l[?25hs[?25l[?12l[?25hq[?25l[?12l[?25hu[?25l[?12l[?25hi[?25l[?12l[?25hd[?25l[10d[?12l[?25h[?25l[9;6H[?12l[?25h[?25l[23d(B[0;7mСохранить изменённый буфер?                                                            [24;1H Y(B[m Да[K[25d(B[0;7m N(B[m Нет  [15G  (B[0;7m^C(B[m Отмена[K[23;29H[?12l[?25h[?25l[24d(B[0;7m^G(B[m Справка[24;22H(B[0;7mM-D(B[m Формат DOS[43G(B[0;7mM-A(B[m Доп. в начало    (B[0;7mM-B(B[m Резерв. копия[25d(B[0;7m^C(B[m Отмена[17G     (B[0;7mM-M(B[m Формат Mac[43G(B[0;7mM-P(B[m Доп. в конец     (B[0;7m^T(B[m Обзор[23d(B[0;7mИмя файла для записи: packages1.txt(B[m[?12l[?25h[?25l  [1K (B[0;7m[ Запись… ](B[m[K[1;54H(B[0;7m [86G(B[m[23;34H(B[0;7m[ Записано 8 строк ](B[m[J[25d[?12l[?25h[25;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ nano packages1.txt[1Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lamanda
+galeon
+metacity
+mozilla
+postgresql
+procinfo
+rpmfind
+squid
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ cat < packages1.txt
+[?2004lamanda
+galeon
+metacity
+mozilla
+postgresql
+procinfo
+rpmfind
+squid
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ tr 'aeiou' ''A'E'I'O'U'[C < packages1.txt
+[?2004lAmAndA
+gAlEOn
+mEtAcIty
+mOzIllA
+pOstgrEsql
+prOcInfO
+rpmfInd
+sqUId
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ tr 'aeiou' 'AEIOU' < packages1.txct[K[Kt > p ackages1.trfile.txt[K[A]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ tr 'aeiou' 'AEIOU' < packages1.txt > packages1.trfile.txt
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ ls -l ps[Kackages1.txt packages1.trfile.txt
+[?2004l-rw-rw-r-- 1 romanenkova13 romanenkova13 65 сен 28 21:33 packages1.trfile.txt
+-rw-rw-r-- 1 romanenkova13 romanenkova13 65 сен 28 21:26 packages1.txt
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ cat packages1.trfile.txt
+[?2004lAmAndA
+gAlEOn
+mEtAcIty
+mOzIllA
+pOstgrEsql
+prOcInfO
+rpmfInd
+sqUId
+[?2004h]0;romanenkova13@ubuntu: ~/Romanenkova/Lab2/Task2.1romanenkova13@ubuntu:~/Romanenkova/Lab2/Task2.1$ exit
+[?2004lexit
+
+Script done on 2022-09-28 21:37:20+03:00 [COMMAND_EXIT_CODE="0"]
